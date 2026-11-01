@@ -1,4 +1,4 @@
-ScrollSafe
+#ScrollSafe
 
 ScrollSafe warns users of any deepfakes, AI-generated media or false information in user For You Page (FYP) a allow users to upload media and quickly verify whether it contains any deepfakes or AI-generated content.
 
